@@ -38,7 +38,7 @@ To log expenses:
 "category": "Transport",
 "date": "2025-07-15"}
 
-Built by SUDEEPA 🐍✨ Feel free to fork, contribute, or star the repo!
+Built by SUDEEPA Feel free to fork, contribute, or star the repo!
   
 
 
